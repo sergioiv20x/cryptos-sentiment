@@ -1,9 +1,9 @@
 MAster course: Social Media Analytics: 
-name fo project ìsentiment indicator for cryptocurrency ticker appsî
+name fo project ‚Äúsentiment indicator for cryptocurrency ticker apps‚Äù
 *Designed and developed a functionality able to deliver sentiment analysis(over time and updated word cloud) over a chosen cryptocurrency/stock
 *The final prototype surges after the definition of target personas, thinking hat analysis and customer journey mapping, the data analysis workflows and all of them are in the pdf report.
 
-#CODE:
+#CODE: (is better commented on the ipynb files)
 Crypto tweets collector:
 1-Connecting and login through the twitter API, 
 2-Using the Tweepy package to define the streaming tweets collector.
